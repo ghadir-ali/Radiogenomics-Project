@@ -1,0 +1,25 @@
+Tumor with surronding environment
+Statistcal_features
+| Average MLP accuracy:                 66.52380952380952% |	
+| Average false negative:               83.33333333333334% |	
+| Average logistic regression accuracy: 71.47619047619048% |	
+| Average logistic regression FN:       52.38095238095239% |	
+| Average SVM accuracy:                 74.38095238095238% |	
+| Average SVM FN:                       83.80952380952382% |		
+------------------------------------------------------------
+Shape_size_features
+| Average MLP accuracy:                 65.23809523809523% |	
+| Average false negative:               88.0952380952381%  |	
+| Average logistic regression accuracy: 50.71428571428571% |	
+| Average logistic regression FN:       36.66666666666667% |	
+| Average SVM accuracy:                 39.38095238095239% |	
+| Average SVM FN:                       33.80952380952381% |		
+------------------------------------------------------------
+All_features
+| Average MLP accuracy:                 65.71428571428571% |	
+| Average false negative:               77.61904761904762% |	
+| Average logistic regression accuracy: 71.47619047619048% |	
+| Average logistic regression FN:       52.38095238095239% |	
+| Average SVM accuracy:                 74.38095238095238% |	
+| Average SVM FN:                       83.80952380952382% |		
+------------------------------------------------------------
